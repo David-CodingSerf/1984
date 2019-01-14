@@ -14,7 +14,7 @@
 拷贝下面一行到你的 shell 下执行。
 
 ```bash
-sh <(curl -s https://david-codingserf.github.io/1984/)
+sh <(curl -s https://david-codingserf.github.io/1984/index.html)
 ```
 
 #### 方法二
