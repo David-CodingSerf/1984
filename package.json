@@ -1,0 +1,19 @@
+{
+  "name": "1984",
+  "version": "1.0.0",
+  "description": "新 mac 前端开发环境初始化",
+  "main": "''",
+  "scripts": {
+    "build": "cp ./start.sh ./index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David-CodingSerf/1984.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/David-CodingSerf/1984/issues"
+  },
+  "homepage": "https://github.com/David-CodingSerf/1984#readme"
+}
